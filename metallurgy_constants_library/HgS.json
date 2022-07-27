@@ -1,0 +1,53 @@
+{"Citation":{
+	"Title":"Spin chirality tuning and topological semi-metals in strained HgTexS1-x -- Supplementary Material",
+	"Authors":"Rauch,T., Achilles, S., Henk, J., Mertig, I."
+"DOI":"https://doi.org/10.1103/PhysRevLett.114.236805"},
+"Note":"Units are in eV",
+"HgS":{
+	"E_sss":1.429,
+	"E_sps":1.849,
+	"E_pss":0.774,
+	"E_sds":0.837,
+	"E_dss":-0.921,
+	"E_pps":1.942,
+	"E_ppp":-0.629,
+	"E_pds":0.660,
+	"E_dps":0.917,
+	"E_pdp":0.174,
+	"E_dpp":-0.457,
+	"E_dds":-0.370,
+	"E_ddp":-0.291,
+	"E_ddd":-0.135
+},
+"Hg":{
+	"E_s":-1.034,
+	"E_p":3.896,
+	"E_d":-6.552,
+	"E_sss":-0.090,
+	"E_sps":-0.352,
+	"E_sds":-0.231,
+	"E_pps":0.435,
+	"E_ppp":-0.267,
+	"E_pds":-0.571,
+	"E_pdp":0.299,
+	"E_dds":0.094,
+	"E_ddp":-0.110,
+	"E_ddd":-0.052
+},
+"S":{
+	"E_s":-11.691,
+	"E_p":-1.184,
+	"E_d":6.176,
+	"E_sss":-0.302,
+	"E_sps":0.361,
+	"E_sds":-0.563,
+	"E_pps":0.857,
+	"E_ppp":-0.066,
+	"E_pds":-1.649,
+	"E_pdp":0.242,
+	"E_dds":-0.838,
+	"E_ddp":0.245,
+	"E_ddd":-0.007
+}
+	
+}}

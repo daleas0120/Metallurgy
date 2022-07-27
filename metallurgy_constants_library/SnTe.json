@@ -1,0 +1,30 @@
+{	"Citation":{
+		"Title":"Relativistic Emperical Tight-Binding Theory of the Energy Bands of GeTe, SnTe, PbTe, PbS, and Their Alloys",
+		"Authors":"Lent, C.S., Bowen, M.A., Dow, J.D., Allgaier, R.S.",
+		"DOI":"https://doi.org/10.1016/0749-6036(86)90017-0"},
+	
+	"Note":"Units are in eV",
+	
+	"SnTe":{
+		"E_sss":-0.510,
+		"E_sps":0.949,
+		"E_pss":-0.198,
+		"E_pps":2.218,
+		"E_ppp":-0.446,
+		"E_pds":-1.11,
+		"E_pdp":0.624,
+		"E_dps":-1.67,
+		"E_dpp":0.766,
+		"E_dds":-1.72,
+		"E_ddd":0.618
+	},
+	"Sn":{
+		"E_s":-6.578,
+		"E_p":1.659
+	},
+	"Te":{
+		"E_s":-12.067,
+		"E_p":-0.167
+	}
+
+}
